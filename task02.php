@@ -13,6 +13,8 @@
                         </aside>
 
                     </footer>';
+        } else {
+            return '<p>Unknown page</p>';
         }
     }
 ?>
